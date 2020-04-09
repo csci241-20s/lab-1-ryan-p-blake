@@ -1,0 +1,37 @@
+Script started on 2020-04-09 13:34:50-0700
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd..
+cd..: command not found
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ..cd
+..cd: command not found
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd-
+
+Command 'cd-' not found, did you mean:
+
+  command 'cde' from deb cde
+  command 'cdb' from deb tinycdb
+  command 'cdv' from deb codeville
+  command 'cdw' from deb cdw
+  command 'cdo' from deb cdo
+  command 'cd5' from deb cd5
+  command 'cdp' from deb irpas
+  command 'cdi' from deb cdo
+
+Try: apt install <deb name>
+
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd -
+/home/blaker3
+blaker3@cf164-14:~$ ls
+Desktop    Downloads	       lab3-ryan-p-blake  Pictures  Templates	Videos
+Documents  lab-1-ryan-p-blake  Music		  Public    typescript
+blaker3@cf164-14:~$ nano typescript
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                      typescript                                [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>blaker3@cf164-14:~$ cd..[K[K -
+/home/blaker3/lab-1-ryan-p-blake
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd type[K[K[K[K[K[K[Knano tye[Kpescript
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                      typescript                                [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[m[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>blaker3@cf164-14:~/lab-1-ryan-p-blake$ exit
+exit
+
+Script done on 2020-04-09 13:36:43-0700
