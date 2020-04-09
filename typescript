@@ -105,3 +105,146 @@ blaker3@cf164-14:~/lab-1-ryan-p-blake$ exit
 exit
 
 Script done on 2020-04-09 13:39:54-0700
+Script started on 2020-04-09 14:02:14-0700
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git reset
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git rm[K[K[K[K[K[Ktouch new[K[K[Kfiletodelted.[K[K[K[K[K[Kelteet[K[K[K[Kete.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ ls
+build	      filetodelete.txt	settings.gradle  typescript    writeup.txt
+build.gradle  gradle		src		 username.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ rm filetodelte[K[Kete.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ ls
+build  build.gradle  gradle  settings.gradle  src  typescript  username.txt  writeup.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ touch tester.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git mv tester.txt
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git mv tester.txt newName.txt
+fatal: not under version control, source=tester.txt, destination=newName.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git add -A
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git mv tester.txt nbew[K[K[KewName.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ ls
+build	      gradle	   settings.gradle  typescript	  writeup.txt
+build.gradle  newName.txt  src		    username.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git blame username.txt
+[?1h=90b4394e (ryan-p-blake 2020-04-09 13:39:20 -0700 1) Ryan Blake,blaker3,ryan-p-blake[m
+90b4394e (ryan-p-blake 2020-04-09 13:39:20 -0700 2) [m
+[K[?1l>blaker3@cf405-02:~/lab-1-ryan-p-blake$ gt[Kit log
+[?1h=[33mcommit 304a83dfdc5275973fe57e3311c6c457d051cf54[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 14:00:50 2020 -0700[m
+[m
+    exited typescript command[m
+[m
+[33mcommit 76214c64ad80dc31dc2be280f3d03e4091122534[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 14:00:06 2020 -0700[m
+[m
+    Hello now prints arg[0][m
+[m
+[33mcommit 0bf60e8a10e5f49084b80806692fd7525feb328b[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 13:53:51 2020 -0700[m
+[m
+    edited writeup[m
+[m
+[33mcommit 90b4394e0f2e6eb2356a186f847bf41b4f89e7c3[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 13:39:20 2020 -0700[m
+[m
+    updating day 2[m
+[m
+[33mcommit 90027771c7c98d4945015b0cbf2334e020858f02[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Wed Apr 8 14:33:57 2020 -0700[m
+[m
+    added part 1 names to writeup[m
+[m
+[33mcommit cd59e63cb78efc9ce197e0c7a958f4fde1eef040[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Wed Apr 8 14:27:43 2020 -0700[m
+[m
+    added empty writeup[m
+[m
+[33mcommit 2e744d34f6a04bd14560c271a8804bc2413ffc9f[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Wed Apr 8 14:01:31 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+[33mcommit def4333e97c0de0336e465bbdf6dd35b13bb8770[m[33m ([m[1;31morigin/feedback[m[33m)[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Wed Apr 8 14:01:31 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[49;1H[K[K:[K[K:[K[K:[K[K:[K[K-[Klog file: [K[K[7mNo log file  (press RETURN)[27m[49;1H[K[K:[K[K[33mcommit 0a899f9a9b35110ef4093cb1db5e4d2215788e04[m[m
+:[K[KAuthor: swehrwein <swehrwein@gmail.com>[m
+:[K[KDate:   Wed Apr 8 14:01:29 2020 -0700[m
+:[K[K[m
+:[K[K    Initial commit[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K-[Klog file: [K[K[7mNo log file  (press RETURN)[27m[49;1H[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[H[2J[H[m
+[33mcommit 76214c64ad80dc31dc2be280f3d03e4091122534[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 14:00:06 2020 -0700[m
+[m
+    Hello now prints arg[0][m
+[m
+[33mcommit 0bf60e8a10e5f49084b80806692fd7525feb328b[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 13:53:51 2020 -0700[m
+[m
+    edited writeup[m
+[m
+[33mcommit 90b4394e0f2e6eb2356a186f847bf41b4f89e7c3[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Thu Apr 9 13:39:20 2020 -0700[m
+[m
+    updating day 2[m
+[m
+[33mcommit 90027771c7c98d4945015b0cbf2334e020858f02[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Wed Apr 8 14:33:57 2020 -0700[m
+[m
+    added part 1 names to writeup[m
+[m
+[33mcommit cd59e63cb78efc9ce197e0c7a958f4fde1eef040[m[m
+Author: ryan-p-blake <blaker3@wwu.edu>[m
+Date:   Wed Apr 8 14:27:43 2020 -0700[m
+[m
+    added empty writeup[m
+[m
+[33mcommit 2e744d34f6a04bd14560c271a8804bc2413ffc9f[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Wed Apr 8 14:01:31 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+[33mcommit def4333e97c0de0336e465bbdf6dd35b13bb8770[m[33m ([m[1;31morigin/feedback[m[33m)[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Wed Apr 8 14:01:31 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+[33mcommit 0a899f9a9b35110ef4093cb1db5e4d2215788e04[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Wed Apr 8 14:01:29 2020 -0700[m
+[m
+    Initial commit[m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[?1l>blaker3@cf405-02:~/lab-1-ryan-p-blake$ [Kblaker3@cf405-02:~/lab-1-ryan-p-blake$ git diff
+[?1h=[K[?1l>blaker3@cf405-02:~/lab-1-ryan-p-blake$ git i[Kdif f[K[Kf writeup.txt
+[?1h=[K[?1l>blaker3@cf405-02:~/lab-1-ryan-p-blake$ git diff writeup.txt[Kgit diff writeup.txt[Kgit diff writeup.txt[Kgit add- [K[K -A
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git[K[K[Kexit[K[K[K[Kexit
+exit
+
+Script done on 2020-04-09 14:08:36-0700
