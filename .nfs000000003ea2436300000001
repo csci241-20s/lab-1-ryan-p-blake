@@ -1,0 +1,199 @@
+Script started on 2020-04-09 13:34:50-0700
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd..
+cd..: command not found
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ..cd
+..cd: command not found
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd-
+
+Command 'cd-' not found, did you mean:
+
+  command 'cde' from deb cde
+  command 'cdb' from deb tinycdb
+  command 'cdv' from deb codeville
+  command 'cdw' from deb cdw
+  command 'cdo' from deb cdo
+  command 'cd5' from deb cd5
+  command 'cdp' from deb irpas
+  command 'cdi' from deb cdo
+
+Try: apt install <deb name>
+
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd -
+/home/blaker3
+blaker3@cf164-14:~$ ls
+Desktop    Downloads	       lab3-ryan-p-blake  Pictures  Templates	Videos
+Documents  lab-1-ryan-p-blake  Music		  Public    typescript
+blaker3@cf164-14:~$ nano typescript
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                      typescript                                [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>blaker3@cf164-14:~$ cd..[K[K -
+/home/blaker3/lab-1-ryan-p-blake
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ cd type[K[K[K[K[K[K[Knano tye[Kpescript
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                      typescript                                [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[m[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>blaker3@cf164-14:~/lab-1-ryan-p-blake$ exit
+exit
+
+Script done on 2020-04-09 13:36:43-0700
+Script started on 2020-04-09 13:37:07-0700
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ nano username.txt
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 1 line ](B[m[K[H(B[0;7m  GNU nano 2.9.3                     username.txt                               [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[mRyan Blake,blaker3,ryan-p-blake[?12l[?25h[?25l[?12l[?25h[?25lR[?12l[?25h[?25ly[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25l [?12l[?25h[?25lB[?12l[?25h[?25ll[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25le[?12l[?25h[?25l,[?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25l3[?12l[?25h[?25l,[?12l[?25h[?25lr[?12l[?25h[?25ly[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25l-[?12l[?25h[?25l[22d[K[3;26H[?12l[?25h[?25l-[?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25le[?12l[?25h[?25l[4d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;71H(B[0;7mModified(B[m[5d[?12l[?25h[?25l[1;79H[1;71H(B[0;7m        (B[m[22;32H(B[0;7m[ Wrote 2 lines ](B[m[5d[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>blaker3@cf164-14:~/lab-1-ryan-p-blake$ git hlep[K[K[Kepl[K[Klp
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ git blame uw[Ksernm[Kame.txt
+[?1h=00000000 (Not Committed Yet 2020-04-09 13:38:25 -0700 1) Ryan Blake,blaker3,ryan[m -p-blake[m
+00000000 (Not Committed Yet 2020-04-09 13:38:25 -0700 2) [m
+[K[?1l>blaker3@cf164-14:~/lab-1-ryan-p-blake$ git s[Kaddd[K _[K-a[Ka[KA[Ka[KA
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ git commit -u ""u"p"d"a"t"i"n"g" "d"a"t"e"[1P"[1P"y" "2"
+error: pathspec 'updating day 2' did not match any file(s) known to git.
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ git commit -u "updating day 2"add -A[Kcommit -u "updating day 2"[1P[1@m
+[master 90b4394] updating day 2
+ 3 files changed, 40 insertions(+)
+ create mode 100644 typescript
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ git push -u
+Username for 'https://github.com': ryan-p-blake
+Password for 'https://ryan-p-blake@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/csci241-20s/lab-1-ryan-p-blake.git/'
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls[K[Kcls
+
+Command 'cls' not found, but there are 17 similar ones.
+
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf164-14:~/lab-1-ryan-p-blake$ exit
+exit
+
+Script done on 2020-04-09 13:39:54-0700
+Script started on 2020-04-09 13:51:56-0700
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ [Kblaker3@cf405-02:~/lab-1-ryan-p-blake$ [Kblaker3@cf405-02:~/lab-1-ryan-p-blake$ git status
+On branch question3
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   typescript[m
+	[32mmodified:   writeup.txt[m
+
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git commit - [Km[K[K[K[K[K[K[K[K[Kcheckout master[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kchekc[K[Kckout ==[K[K[K[K[K[K[K[K[K[K[K[K checkout question [K2[K3
+M	typescript
+M	writeup.txt
+Already on 'question3'
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git commit 0[K-[K[K[K[K[K[K[K[Kadd -A[Ka[KA
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git commit -m[K[K""e"d"i"t"e"d" "t"y"o"[1P"[1P"[1P"w"r"i"t"u"p"[1P"[1P"e"u"p"[C
+error: pathspec 'edited writeup' did not match any file(s) known to git.
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git commit "edited writeup"[C[1@ [1@-[1@a[C[1@ [1@-[1@a[1P[1@m[C[1@ 
+[question3 0bf60e8] edited writeup
+ 2 files changed, 105 insertions(+), 34 deletions(-)
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git commit -a -m  "edited writeup"[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@-a -m  [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmerge question3
+Already up to date.
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git status
+On branch question3
+nothing to commit, working tree clean
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ nano writeup.xt[K[Ktxt
+[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;39H(B[0;7m[ Reading File ](B[m[47;45H(B[0;7m 3 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                            writeup.txt                                      [1;92H(B[m[48d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[49d(B[0;7m^X(B[m Exit[49;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line[47d[3d[39;49m(B[mRyan Blake[4dFavorite song: A song by an artist.[A[?12l[?25h[?25l[47d[J[49;93H[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>blaker3@cf405-02:~/lab-1-ryan-p-blake$ git hcekc[K[K[K[K[Kcheckout maser[K[K[Kster
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git merge question [K3
+Updating 90b4394..0bf60e8
+Fast-forward
+ typescript  | 138 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m------------------[m
+ writeup.txt |   1 [32m+[m
+ 2 files changed, 105 insertions(+), 34 deletions(-)
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ it [K[K[Kgit branch -d hotfix
+error: branch 'hotfix' not found.
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ git branch -d hotfix[K[K[K[K[K[Kquestion [K3
+Deleted branch question3 (was 0bf60e8).
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ cd sc[Krc/main/java/lab1
+blaker3@cf405-02:~/lab-1-ryan-p-blake/src/main/java/lab1$ ls
+Hello.java
+blaker3@cf405-02:~/lab-1-ryan-p-blake/src/main/java/lab1$ gradel[K[Kle build
+
+Welcome to Gradle 6.1!
+
+Here are the highlights of this release:
+ - Dependency cache is relocatable
+ - Configurable compilation order between Groovy, Java & Scala
+ - New sample projects in Gradle's documentation
+
+For more details see https://docs.gradle.org/6.1/release-notes.html
+
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+
+[2A[1B[1m> Starting Daemon[m[17D[1B[1A> IDLE[0K[6D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [103ms][m[39D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [203ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [303ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [403ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [503ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [603ms][m[39D[1B[1m> Evaluating settings > Compiling /home/blaker3/lab-1-ryan-p-blake/settings.gradle into loca[m[92D[1B[2A[1m<[0;1m-------------> 0% INITIALIZING [703ms][m[39D[2B[2A[1m<[0;1m-------------> 0% INITIALIZING [803ms][m[39D[1B[1m> Evaluating settings[m[0K[21D[1B[2A[0K
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Project directory '/home/blaker3/lab-1-ryan-p-blake/src/main/java/lab1' is not part of the build defined by settings file '/home/blaker3/lab-1-ryan-p-blake/settings.gradle'. If this is an unrelated build, it must have its own settings file.
+
+* Try:
+Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 3s
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hblaker3@cf405-02:~/lab-1-ryan-p-blake/src/main/java/lab1$ cd -
+/home/blaker3/lab-1-ryan-p-blake
+blaker3@cf405-02:~/lab-1-ryan-p-blake$ grade[Kle build
+
+
+[2A[1m<[0;1m-------------> 0% CONFIGURING [56ms][m[37D[1B[1m> Loading projects[m[18D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [156ms][m[38D[1B[1m> root project > Compiling /home/blaker3/lab-1-ryan-p-blake/build.gradle into local compilat[m[92D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [256ms][m[38D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;1m-------------> 0% CONFIGURING [355ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [455ms][m[38D[2B[2A[1m<[0;1m-------------> 0% CONFIGURING [556ms][m[38D[2B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [656ms][m[40D[1B> IDLE[0K[6D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [756ms][m[40D[2B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [855ms][m[40D[2B[2A[1m<[0;1m-------------> 0% EXECUTING [956ms][m[0K[36D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [1s][m[0K[33D[1B[1m> :compileJava > Resolve dependencies of :compileClasspath[m[58D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [2s][m[33D[2B[1A[1m> :compileJava > Resolve files of :compileClasspath[m[0K[51D[1B[1A[1m> :compileJava[m[0K[14D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [3s][m[33D[2B[2A[1m<[0;1m-------------> 0% EXECUTING [4s][m[33D[2B[2A[1m<[0;1m-------------> 0% EXECUTING [5s][m[33D[2B[2A[1m<[0;1m-------------> 0% EXECUTING [6s][m[33D[2B[2A[1m<[0;32;1m==[0;39;1m-----------> 21% EXECUTING [6s][m[34D[1B[1m> :jar[m[0K[6D[1B[2A[1m<[0;32;1m===[0;39;1m----------> 28% EXECUTING [6s][m[34D[1B[1m> :startScripts[m[15D[1B[2A[1m<[0;32;1m====[0;39;1m---------> 35% EXECUTING [6s][m[34D[1B[1m> :distTar[m[0K[10D[1B[2A[1m<[0;32;1m=====[0;39;1m--------> 42% EXECUTING [6s][m[34D[1B[1m> :distZip[m[10D[1B[2A[0K
+[32;1mBUILD SUCCESSFUL[0;39m in 7s
+5 actionable tasks: 5 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hblaker3@cf405-02:~/lab-1-ryan-p-blake$ gradle run
+
+[1A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [48ms][m[39D[1B
+[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [148ms][m[0K[37D[1B[1m> :run[m[6D[1B[2A[0K
+[1m> Task :run[m
+Hello, world!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 537ms
+2 actionable tasks: 1 e
